@@ -6,7 +6,7 @@ import IMG3 from '../../assets/portfolio3.jpg'
 // import IMG4 from '../../assets/portfolio4.jpg'
 // import IMG5 from '../../assets/portfolio5.png'
 // import IMG6 from '../../assets/portfolio6.jpg'
-
+import ps1 from '../../assets/ps.png'
 const Portfolio = () => {
   return (
     <section id='portfolio'>
@@ -30,14 +30,14 @@ const Portfolio = () => {
 
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={IMG2} alt=''></img>
+            <img src={ps1} alt=''></img>
           </div>
 
-          <h3>This is a Portfolio Item Title</h3>
+          <h3>This is a My React Portfolio </h3>
           <div className='portfolio__item-cta'>
             
-          <a href='https://github.com/shreyas14121999/Facebook' className='btn' target='_blank'>GitHub</a>
-          <a href='https://github.com/shreyas14121999/Facebook' className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href='https://github.com/shreyas14121999/react-portfolio-website-1' className='btn' target='_blank'>GitHub</a>
+          <a href='https://shreyas-react-portfolio.netlify.app/' className='btn btn-primary' target='_blank'>Live Demo</a>
           
           </div>
         </article>

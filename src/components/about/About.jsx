@@ -40,10 +40,7 @@ const about = () => {
             </article>
           </div>
             <p>
-              Lorem ipsum dolor sit
-               amet consectetur adipisicing elit.
-               Esse nostrum ut hic? Eos deserunt obcaecati
-               , cum, non expedita ea, neque ad a dolore excepturi illo quis et minima porro accusamus.
+              Hi, I'm Shreyas Joshi.A Passionate Front-End React Devloper based in Ahmedabad, Gujarat.   
             </p>
             <a href='#contact' className=' btn btn-primary'>Let's Talk</a>
         </div>
