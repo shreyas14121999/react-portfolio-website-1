@@ -40,7 +40,7 @@ const about = () => {
             </article>
           </div>
             <p>
-              Hi, I'm Shreyas Joshi .A Passionate Front-End React Devloper based in Ahmedabad, Gujarat. 
+              Hi, I'm Shreyas Joshi .A Passionate Front-End React Developer based in Ahmedabad, Gujarat. 
               {/* I am belong to rich intellectual background.    */}
             </p>
             <a href='#contact' className=' btn btn-primary'>Let's Talk</a>
